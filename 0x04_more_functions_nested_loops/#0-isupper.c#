@@ -1,9 +1,0 @@
-#include "main.h"
-
-int _supper(int c)
-{
-  int c;
-
-  for (c='A'; c<='Z'; c++)
-    {
-      _putchar(
